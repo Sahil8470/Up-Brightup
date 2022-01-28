@@ -1,58 +1,68 @@
-
 body {
-  background-color:#fff;
+  background-color: #fff;
   font-family: 'Montserrat', sans-serif;
 }
-#title
-{
-}
+
 
 /* Navigation Bar */
-nav{
-
-  background-color: #EAEAEA;
+nav {
+color: #fff;
+  background-color: #1572A1;
 }
 
-.navigation{
+.navigation {
   font-family: "Montserrat-Black";
+  color: #fff;
+}
+.navigation:hover{
+  color: #9AD0EC;
 }
 
 .caro-images {
-    text-align: center;
-    padding-top: 10%;
+  text-align: center;
+  padding-top: 10%;
 }
 
 .caro-image-5 {
   width: 30%;
 }
 
-.display-images{
+.display-images {
   width: 66%;
 
 }
-.container-fluid{
-  padding:20% 5% 5% 7%;
+
+.container-fluid {
+  padding: 20% 5% 5% 7%;
   padding-top: 0;
 }
 
-.brand-font{
+.brand-font {
   font-family: 'Permanent Marker';
   padding-left: 10%;
-  color: black;
+  color:#fff;
+}
+.navbar-brand:hover{
+  color: #9AD0EC;
 }
 
+
+.nav-item {
+  margin: 0 10px 0 10px;
+  
+}
 /* Carousel */
-.arrows{
+.arrows {
   position: absolute;
   margin: auto;
   padding: 5%;
 }
-.nav-item{
-  margin: 0 10px 0 10px;
-}
+
+
 
 /* Coaching Advantages */
 #coaching-advantage {
+  background-color: #C1FFD7;
   padding: 7% 15% 0;
 }
 
@@ -71,13 +81,22 @@ nav{
   padding-bottom: 20px;
 }
 
+.adv-img-s {
+  margin: 10%;
+  width: 43%;
+  border-radius: 100%;
+}
+
 .adv-img {
   width: 40%;
+  margin: 10%;
+  border-radius: 100%;
 }
+
 /* Student Reviews */
 #reviews {
   padding: 7% 15% 0;
-  background-color: #C1FFD7;
+  
 }
 
 .reviews-content {
@@ -112,8 +131,9 @@ nav{
 
 /* FACULTY SECTION */
 
-#faculty{
+#faculty {
   text-align: center;
+  background-color: #C1FFD7;
 }
 
 .faculty_heading {
@@ -125,60 +145,67 @@ nav{
 }
 
 .faculty-info {
- /* padding: 10% 15%;*/
+  /* padding: 10% 15%;*/
 }
 
-.faculty_img{
+.faculty_img {
   padding: 5% 0%;
 }
 
 
 @media screen and (max-width: 680px) {
 
-  .phone{
+  .phone {
     padding-top: 0px;
     float: none;
-    text-align:center;
+    text-align: center;
   }
 
-  .social-icon{
+  .social-icon {
     float: none;
     text-align: center;
     width: 10%;
-   }
+  }
 }
 
 /* FOOTER SECTION */
 
-.address{
+.address {
   padding-left: 20%;
 }
 
-.phone{
+.phone {
   padding-left: 30%;
   float: right;
 }
 
-.footer_heading{
+.footer_heading {
   padding: 5% 15%;
   text-align: center;
 }
 
-.copyright{
+.copyright {
   text-align: center;
   font-size: 10px;
   margin: 0;
   padding: 2%;
 }
 
-.social_handles{
+.social_handles {
   text-align: center;
 }
 
-.social-icon{
+.social-icon {
   padding-left: 20px;
+  color: #fff;
+}
+.social-icon:hover{
+  color: #9AD0EC;
+    
+ 
 }
 
-.contact_us{
-  background-color: #EAEAEA;
+.contact_us {
+  background-color: #1572A1;
+  color: #fff;
 }
