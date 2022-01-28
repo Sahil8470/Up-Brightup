@@ -117,28 +117,23 @@ nav{
 }
 
 .faculty_heading {
-  padding-top: 10%;
+  padding-top: 7%;
+  padding-bottom: 5%;
   font-weight: 500;
   font-size: 3.5rem;
   font-family: 'Montserrat', sans-serif;
 }
 
 .faculty-info {
-  padding: 10% 15%;
+ /* padding: 10% 15%;*/
+}
+
+.faculty_img{
+  padding: 5% 0%;
 }
 
 
 @media screen and (max-width: 680px) {
-  .faculty_heading{
-    width: 100%;
-    text-align: center;
-    padding: 50px;
-  }
-
-  .faculty_text{
-    width: 100%;
-    text-align: center;
-  }
 
   .phone{
     padding-top: 0px;
