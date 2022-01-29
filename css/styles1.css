@@ -51,6 +51,11 @@ color: #fff;
   margin: 0 10px 0 10px;
   
 }
+
+.navbar-toggler {
+  color: #fff;
+}
+
 /* Carousel */
 
 #carouselExampleControls {
