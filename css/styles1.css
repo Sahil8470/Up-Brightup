@@ -52,18 +52,41 @@ color: #fff;
   
 }
 /* Carousel */
+
+#carouselExampleControls {
+  background-color: #C1FFD7;
+  padding-bottom: 7%;
+}
+
 .arrows {
   position: absolute;
   margin: auto;
   padding: 5%;
 }
 
+.about-coaching {
+  text-align: center;
+  background-color: #C1FFD7;
+  font-size: 1.5rem;;
+  padding: 2% 15% 5%;
+}
 
-
+.quotation {
+  font-style: italic;
+  font-weight: 900;
+}
 /* Coaching Advantages */
 #coaching-advantage {
-  background-color: #C1FFD7;
+
   padding: 7% 15% 0;
+}
+
+.adv-heading {
+  text-align: center;
+  padding-top: 2%;
+  padding-bottom: 5%;
+  font-weight: 500;
+  font-size: 2.5rem;
 }
 
 .coachin-adv {
@@ -96,7 +119,14 @@ color: #fff;
 /* Student Reviews */
 #reviews {
   padding: 7% 15% 0;
-  
+  background-color: #C1FFD7;
+}
+
+.reviews-heading {
+  text-align: center;
+  padding: 0 0 8%;
+  font-size: 2.5rem;
+
 }
 
 .reviews-content {
@@ -133,7 +163,7 @@ color: #fff;
 
 #faculty {
   text-align: center;
-  background-color: #C1FFD7;
+  
 }
 
 .faculty_heading {
