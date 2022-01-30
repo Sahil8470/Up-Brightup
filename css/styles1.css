@@ -6,8 +6,11 @@ body {
 
 /* Navigation Bar */
 nav {
-color: #fff;
+  color: #fff;
   background-color: #1572A1;
+}
+.navbar-toggler-icon{
+  color: #fff;
 }
 
 .navigation {
