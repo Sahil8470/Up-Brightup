@@ -226,7 +226,7 @@ nav {
   text-align: center;
   font-size: 10px;
   margin: 0;
-  padding: 2%;
+  padding: 2% 0 1%;
 }
 
 .social_handles {
@@ -246,4 +246,11 @@ nav {
 .contact_us {
   background-color: #1572A1;
   color: #fff;
+}
+
+.copyright-2 {
+  text-align: center;
+  font-size: 10px;
+  margin: 0;
+  padding-bottom: 2%;
 }
