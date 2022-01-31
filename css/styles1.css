@@ -9,8 +9,13 @@ nav {
   color: #fff;
   background-color: #1572A1;
 }
+
 .navbar-toggler-icon{
   color: #fff;
+}
+
+.fa-bars {
+  font-size: 1.7rem;
 }
 
 .navigation {
@@ -21,30 +26,14 @@ nav {
   color: #9AD0EC;
 }
 
-.caro-images {
-  text-align: center;
-  padding-top: 10%;
-}
 
-.caro-image-5 {
-  width: 30%;
-}
-
-.display-images {
-  width: 66%;
-
-}
-
-.container-fluid {
-  padding: 20% 5% 5% 7%;
-  padding-top: 0;
-}
 
 .brand-font {
   font-family: 'Permanent Marker';
   padding-left: 10%;
   color:#fff;
 }
+
 .navbar-brand:hover{
   color: #9AD0EC;
 }
@@ -55,11 +44,18 @@ nav {
   
 }
 
-.navbar-toggler {
-  color: #fff;
-}
 
 /* Carousel */
+
+.caro-images {
+  text-align: center;
+  padding-top: 10%;
+}
+
+.display-images {
+  width: 66%;
+
+}
 
 #carouselExampleControls {
   background-color: #C1FFD7;
@@ -169,6 +165,11 @@ nav {
 
 
 /* FACULTY SECTION */
+
+.container-fluid {
+  padding: 20% 5% 5% 7%;
+  padding-top: 0;
+}
 
 #faculty {
   text-align: center;
