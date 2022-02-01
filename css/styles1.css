@@ -47,10 +47,6 @@ nav {
 
 /* Carousel */
 
-.carousel-item {
-  margin: 0;
-}
-
 .caro-images {
   text-align: center;
   padding-top: 10%;
@@ -83,7 +79,10 @@ nav {
   font-style: italic;
   font-weight: 900;
 }
+
+
 /* Coaching Advantages */
+
 #coaching-advantage {
 
   padding: 7% 15% 0;
