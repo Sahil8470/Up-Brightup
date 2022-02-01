@@ -210,6 +210,11 @@ nav {
 
 /* FOOTER SECTION */
 
+.footer-row {
+  margin-left: 0;
+  margin-right: 0;
+}
+
 .address {
   padding-left: 20%;
 }
@@ -218,6 +223,10 @@ nav {
   padding-left: 30%;
   float: right;
 }
+
+/* .phone-number {
+  width: 160px;
+} */
 
 .footer_heading {
   padding: 5% 15%;
