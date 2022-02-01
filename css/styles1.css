@@ -47,6 +47,10 @@ nav {
 
 /* Carousel */
 
+.carousel-item {
+  margin: 0;
+}
+
 .caro-images {
   text-align: center;
   padding-top: 10%;
